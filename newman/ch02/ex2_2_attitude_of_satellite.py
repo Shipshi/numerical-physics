@@ -1,8 +1,9 @@
+from math import pi
+
 #physical and mathematical constants
 G = 6.67 * (10 ** (-11)) # Newton's Gravitational Constant, m^3 * kg^-1 * s^-2
 M = 5.97 * (10 ** 24) # Mass of Earth in kg
 R = 6371 * (10 ** 3) #Radius of earth in meters
-pi = 3.14
 
 #Physical variables
 T = float(input("Enter the time in seconds:"))
