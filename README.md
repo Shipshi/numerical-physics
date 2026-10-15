@@ -35,8 +35,8 @@ File naming: `ex<chapter>_<number>_<short_name>.py`, for example `ex2_1_ball_dro
 
 | Exercise | Topic | Status | Notes |
 |----------|-------|--------|-------|
-| 2.1 |  |  |  |
-| 2.2 |  |  |  |
+| 2.1 |  time for a ball dropped from a tower | done |
+| 2.2 |  Evaluating altitude of satellite | done |
 | 2.3 |  |  |  |
 
 ### Gezerlis
