@@ -41,6 +41,8 @@ File naming: `ex<chapter>_<number>_<short_name>.py`, for example `ex2_1_ball_dro
 | 2.4 | Relativistic spaceship travel time | done |
 | 2.5 | Calculating the transmission and reflection of particle in 1D step | done |
 | 2.6 | Evaluating the properties of planetary orbits | done |
+| 2.7 | Calculating the catalan numbers | done |
+| 2.8 | Example of operations between arrays | done |
 
 ### Gezerlis
 
